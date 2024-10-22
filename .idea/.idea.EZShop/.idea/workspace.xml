@@ -9,22 +9,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28480e21-da8a-4a1b-84eb-0ecce655231a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BLL/DAL/Db.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL/DAL/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/DAL/Category.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLL/DAL/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/DAL/Product.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EZShop.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EZShop.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/Models/CategoryModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/Services/Bases/Service.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BLL/Services/CategoryService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EZShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EZShop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/BLL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/BLL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/DAL/Db.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/DAL/Db.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MVC/MVC.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/MVC.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Models/ErrorViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Models/ErrorViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/Home/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/Home/Privacy.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/Shared/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/Shared/Error.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/_ViewImports.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/Views/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/Views/_ViewStart.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +40,7 @@
     "accountId": "047c6436-02d8-45ff-83bd-26bf24d58ff5"
   }
 }]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -115,13 +107,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728392847416</updated>
-      <workItem from="1728392848443" duration="24400000" />
+      <workItem from="1728392848443" duration="40493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />

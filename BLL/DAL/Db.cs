@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 
-
 namespace BLL.DAL;
 
 public class Db : DbContext
